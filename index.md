@@ -1,6 +1,6 @@
 ## About
 
-![images](assets/images/thais.jpg) I'm Thais Maiolino and here you can find a little bit more about me.
+![images](assets/images/thais.jpg width="200" height="200" border-radius="50%") I'm Thais Maiolino and here you can find a little bit more about me.
 
 I am a Software developer and at this moment I work building tools to help clients lives. They show me up their big problems and I try to automatize their jobs or at least give them a easier way to performance their needs.
 
