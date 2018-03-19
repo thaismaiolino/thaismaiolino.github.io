@@ -1,6 +1,6 @@
 ## About
 
-![image](![images](assets/images/thais.jpg) I'm Thais Maiolino and here you can find a little bit more about me.
+![images](assets/images/thais.jpg) I'm Thais Maiolino and here you can find a little bit more about me.
 
 I am a Software developer and at this moment I work building tools to help clients lives. They show me up their big problems and I try to automatize their jobs or at least give them a easier way to performance their needs.
 
@@ -18,18 +18,21 @@ And of course, life isn't just about work. That's why on my free time you can fi
 
 ## Work Projects
 
-![images](assets/images/coverage.png) ### Coverage Tool
+![images](assets/images/coverage.png) 
+### Coverage Tool
 Python tool that interacts with NoSQL database (Cloudant) and retrieves all informations about customers and coverages of an vendor.
 To be hosted on Bluemix.
 Created using: Python, JQuery, Cloudant.
 
-![images](assets/images/profile.png) ### Account Profile Website
+![images](assets/images/profile.png) 
+### Account Profile Website
 Generic account profile management, can be used for save any customer informations.
 Hosted on Bluemix.
 Created using: Python, JQuery, Cloudant.
 
 
-![images](assets/images/document.png) ### Document Factory Website
+![images](assets/images/document.png) 
+### Document Factory Website
 Generic document creator, used to query any kind of database and transform the result in a PDF or XLSX file.
 Hosted on Bluemix.
 Created using: NODE.JS, Express, AngularJS, Cloudant, DB2.
