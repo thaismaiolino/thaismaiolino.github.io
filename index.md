@@ -17,28 +17,23 @@ And of course, life isn't just about work. That's why on my free time you can fi
 ## Projects
 
 ## Work Projects
-
-![images](assets/images/coverage.png) 
 ### Coverage Tool
-Python tool that interacts with NoSQL database (Cloudant) and retrieves all informations about customers and coverages of an vendor.
+![images](assets/images/coverage.png) Python tool that interacts with NoSQL database (Cloudant) and retrieves all informations about customers and coverages of an vendor.
 To be hosted on Bluemix.
 Created using: Python, JQuery, Cloudant.
 
-![images](assets/images/profile.png) 
 ### Account Profile Website
-Generic account profile management, can be used for save any customer informations.
+![images](assets/images/profile.png) Generic account profile management, can be used for save any customer informations.
 Hosted on Bluemix.
 Created using: Python, JQuery, Cloudant.
 
-
-![images](assets/images/document.png) 
 ### Document Factory Website
-Generic document creator, used to query any kind of database and transform the result in a PDF or XLSX file.
+![images](assets/images/document.png) Generic document creator, used to query any kind of database and transform the result in a PDF or XLSX file.
 Hosted on Bluemix.
 Created using: NODE.JS, Express, AngularJS, Cloudant, DB2.
 
-![images](assets/images/query.png) ### Query API
-API builded to query any kind of database and send a JSON with the query result.
+### Query API
+![images](assets/images/query.png) API builded to query any kind of database and send a JSON with the query result.
 Created using: Java.
 
 
